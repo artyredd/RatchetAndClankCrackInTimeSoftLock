@@ -107,7 +107,7 @@ Characteristics:
     - `0` represents no bombs are present
     - `3` represents 3 bombs are present
 
-In order to locate the addresses use the provided characteristics. Begin Planet Quantos, wait for the 3 initial bombs to spawn, destroy any number of them, and restart the planet afterware to narrow down the addresses(see gif/video).
+In order to locate the addresses use the provided characteristics. Begin Planet Quantos, wait for the 3 initial bombs to spawn, destroy any number of them, and restart the planet afterwwards in order to narrow down the addresses.
 
 [Locating the memory address](https://www.youtube.com/watch?v=rcUSXrplIgo) &#128250; (Youtube)
 
