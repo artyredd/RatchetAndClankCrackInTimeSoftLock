@@ -92,7 +92,7 @@ Bombs, when detonated, repair any anomolies that they hit with their explosions.
 Only a limited number of bombs can spawn until the current ones are destroyed. For this work around we are going to make unlimited bombs spawn, and multiply the number of bombs that spawn at once.
 
 ### Workaround
-1. Locate the memory addresses where `bombCount` are located
+1. Locate the memory address where `bombCount` is stored
 2. Modify the assembly code to enable unlimited bombs to spawn
 3. Modify the assembly code to increase the number of bombs that spawn
 
