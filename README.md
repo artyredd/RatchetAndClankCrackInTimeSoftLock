@@ -102,7 +102,7 @@ These characteristics are specifically for the first wave of Planet Quantos (the
 
 Characteristics:
 - `bombCount` is stored a `byte`
-- `bombCount` is controled by a `*pointer` and freezing it's value has no benefit
+- `bombCount` is controlled by a `*pointer` and freezing it's value has no benefit
 - It's default value is `0` and has a maximum value of `3`
     - `0` represents no bombs are present
     - `3` represents 3 bombs are present
