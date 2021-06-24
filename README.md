@@ -129,7 +129,7 @@ Use `Find out what writes to this address` to locate the assembly that modifies 
 The instruction we want to modify should end with `#####03AE`, the instruction for me was `163E203AE` but it is likely to be different for you. 
 
 If you can't determine the instruction by name you want to look for the one that looks similar to: 
-> `movebe [rax+rbx+00000134],ecx`.
+>     movebe [rax+rbx+00000134],ecx
 
 Click on the instruction to select it. Click the `Show disassembler` on the right-hand side of the form to view the assembly code for the instruction.
 
