@@ -63,7 +63,7 @@ Characteristics:
     - `0` represents a grounded state
     - `1` represents one helicopter jump has been used  
     - `2` represents two helicopter jumps have been used
-    - `3` represents no additional helicopter jumps left
+    - `3` represents no additional helicopter jumps remain
     
 
 Using the provided characteristics find the memory address associated with Clank's Helicopter jump (`currentJumpCount`).
